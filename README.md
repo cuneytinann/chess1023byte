@@ -11,6 +11,8 @@ Part of the [Golfstack](https://www.fidelite.art/) project.
 
 The name of the budget: 1,024 bytes. This lands 1 byte under it.
 
+**Zoom in.** Cells are 22×24 px, which is tiny on a modern display. Use the browser's zoom — `Ctrl` `+`, or `⌘` `+` on macOS; around **300%** is comfortable. `Ctrl` `0` resets it. Nothing breaks on the way up: the cells are sized in HTML attributes and the pieces are text glyphs, so the whole board scales cleanly at any zoom level.
+
 ---
 
 ## What's in it
